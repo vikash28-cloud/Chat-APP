@@ -8,7 +8,7 @@ MERN Stack Chat Application
     $ MongoDB
     $ Socket.IO
 
-#Features: 
+# Features: 
     1- User can register/login with a username
     2- User can search for a user
     3- User can send a friend request to other user  
