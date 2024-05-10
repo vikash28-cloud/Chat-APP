@@ -7,6 +7,7 @@ MERN Stack Chat Application
     $ React
     $ MongoDB
     $ Socket.IO
+    $ Material UI
 
 # Features: 
     1- User can register/login with a username
